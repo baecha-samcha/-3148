@@ -1,4 +1,4 @@
-app = "YOUR-APP-NAME"
+app = "baecha-unblocker"
 
 [env]
 PORT = "8080"
